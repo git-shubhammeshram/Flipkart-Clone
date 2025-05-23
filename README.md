@@ -38,17 +38,7 @@ Welcome to the **Flipkart Clone** repository! This is a web-based clone of Flipk
 
 ---
 
-## 📸 Screenshots
 
-### Homepage Preview:
-
-![Homepage Screenshot](https://github.com/karthikyandrapu/Flipkart-Clone/blob/91b766c331cb77ba014b5e5372dd05f016f9e66f/images/Screenshots/Homepage.png?raw=true)
-
-### Responsive Design:
-
-![Responsive Design](https://github.com/karthikyandrapu/Flipkart-Clone/blob/91b766c331cb77ba014b5e5372dd05f016f9e66f/images/Screenshots/Responsive.png?raw=true)
-
----
 
 ## ⚙️ Installation
 
@@ -57,7 +47,7 @@ To set up this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/karthikyandrapu/Flipkart-Clone.git
+   https://github.com/git-shubhammeshram/Flipkart-Clone.git
    ```
 
 2. **Navigate to the project directory**:
@@ -79,11 +69,7 @@ To set up this project locally, follow these steps:
 
 ---
 
-## 📑 Presentation
 
-👉 [View the project presentation here!](https://docs.google.com/presentation/d/1LuT60j0giNhXdq9022FCxWp2tGRH45lt/edit#slide=id.p1)
-
----
 
 ## 🤝 Contributing
 
@@ -114,6 +100,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [karthikyandrapu](https://github.com/karthikyandrapu)
+- **GitHub**: [git-shubhammeshram](https://github.com/git-shubhammeshram)
 
 ---
