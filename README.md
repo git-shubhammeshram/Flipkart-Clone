@@ -3,7 +3,7 @@
 Welcome to the **Flipkart Clone** repository! This is a web-based clone of Flipkart, developed using HTML, CSS, and JavaScript. The project aims to mimic the look and feel of the Flipkart homepage, providing a visually appealing and responsive user interface.
 
 ### 🌐 Live Demo
-👉 [View the deployed site here!](https://karthikyandrapu.github.io/Flipkart-Clone/)
+👉 [View the deployed site here!](https://git-shubhammeshram.github.io/Flipkart-Clone/Best-of-Electronics.html)
 
 ---
 
